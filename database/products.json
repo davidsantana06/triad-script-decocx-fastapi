@@ -1,0 +1,114 @@
+[
+    {
+        "id": 1,
+        "name": "Camiseta Wanted – Typesetting",
+        "description": "Camiseta preta de manga curta e modelagem oversized",
+        "seasons": ["spring", "autumn", "winter"],
+        "price": 139.90,
+        "image": "https://wantedind.com/wp-content/uploads/2023/06/TYPE-SETTING-CLASSIC-PRETO-FRENTE.png"
+    },
+    {
+        "id": 2,
+        "name": "Camiseta Wanted – Racer",
+        "description": "Camiseta branca de manga curta e modelagem oversized",
+        "seasons": ["spring", "autumn", "winter"],
+        "price": 149.90,
+        "image": "https://wantedind.com/wp-content/uploads/2023/06/05-RACER-FRENTE-OFF-WHITE-768x768.png"
+    },
+    {
+        "id": 3,
+        "name": "Jaqueta Wanted – W Varsity Jacket",
+        "description": "Jaqueta Bomber com ribana retilínea nas barras corpo e mangas",
+        "seasons": ["autumn", "winter"],
+        "price": 499.90,
+        "image": "https://wantedind.com/wp-content/uploads/2023/07/W-VARSITY-JACKET-01-768x768.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Jaqueta Wanted – Tracksuit SD",
+        "description": "Jaqueta preta com modelagem regular e gola alta",
+        "seasons": ["autumn", "winter"],
+        "price": 399.90,
+        "image": "https://wantedind.com/wp-content/uploads/2023/06/TRACKSUIT-SD-JAQUETA-01-768x768.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Calça Wanted – Tracksuit SD",
+        "description": "Calça preta com modelagem regular",
+        "seasons": ["autumn", "winter"],
+        "price": 299.90,
+        "image": "https://wantedind.com/wp-content/uploads/2023/07/TRACKSUIT-SD-CALCA-01-scaled.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Moletom Wanted Zipper – All Eyes",
+        "description": "Moletom azul com zíper e ajuste para capuz",
+        "seasons": ["winter"],
+        "price": 349.90,
+        "image": "https://wantedind.com/wp-content/uploads/2023/03/ALL-EYES-FRENTE-ZIPPER-1-768x768.png"
+    },
+    {
+        "id": 7,
+        "name": "Moletom Canguru Wanted – Vivências",
+        "description": "Moletom canguru branco felpado com modelagem oversized",
+        "seasons": ["winter"],
+        "price": 319.80,
+        "image": "https://wantedind.com/wp-content/uploads/2023/07/VIVENCIAS-BRANCO-768x768.webp"
+    },
+    {
+        "id": 8,
+        "name": "Short Wanted – Circle",
+        "description": "Short preto com modelagem justa e cós elástico",
+        "seasons": ["summer"],
+        "price": 159.90,
+        "image": "https://wantedind.com/wp-content/uploads/2023/10/01-SHORT-CIRCLE-FEMININO-900x900.png"
+    },
+    {
+        "id": 9,
+        "name": "Camisa Wanted – Global Vision Crooke",
+        "description": "Camiseta estampada com modelagem regular",
+        "seasons": ["summer", "spring", "autumn"],
+        "price": 219.90,
+        "image": "https://wantedind.com/wp-content/uploads/2021/02/camisa-gnomo-01-768x768.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Camisa Wanted – Hustler 14",
+        "description": "Camisa amarela com modelagem oversized",
+        "seasons": ["summer", "spring", "autumn"],
+        "price": 199.90,
+        "image": "https://wantedind.com/wp-content/uploads/2022/12/hustler-frente-900x900-1.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Calça Wanted – W Baggy Jeans",
+        "description": "Calça baggy jeans modelo five pockets",
+        "seasons": ["spring", "autumn", "winter"],
+        "price": 299.90,
+        "image": "https://wantedind.com/wp-content/uploads/2023/06/W-BAGGY-JEANS-02-900x900.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Camisa Wanted – Sans",
+        "description": "Camisa estampada com modelagem regular",
+        "seasons": ["spring", "autumn", "winter"],
+        "price": 219.90,
+        "image": "https://wantedind.com/wp-content/uploads/2023/01/IMG_9321-768x1115.jpg"
+    },
+    {
+        "id": 13,
+        "name": "Camisa Wanted – Artilheiro",
+        "description": "Camisa preta de gola alta com modelagem oversized",
+        "seasons": ["summer", "spring", "autumn"],
+        "price": 199.90,
+        "image": "https://wantedind.com/wp-content/uploads/2022/12/artilheiro-frente-768x768-1.jpg"
+    },
+    {
+        "id": 14,
+        "name": "Camiseta Wanted Premium – Wntd F.C. Dry Fit",
+        "description": "Camisa preta de gola alta com modelagem oversized",
+        "seasons": ["summer", "spring"],
+        "price": 219.80,
+        "image": "https://wantedind.com/wp-content/uploads/2023/08/CAMISETA-PREMIUM-WNTD-F.C.-DRY-FIT-01--768x768.jpg"
+    }
+]
