@@ -89,14 +89,6 @@
     },
     {
         "id": 12,
-        "name": "Camisa Wanted – Sans",
-        "description": "Camisa estampada com modelagem regular",
-        "seasons": ["spring", "autumn", "winter"],
-        "price": 219.90,
-        "image": "https://wantedind.com/wp-content/uploads/2023/01/IMG_9321-768x1115.jpg"
-    },
-    {
-        "id": 13,
         "name": "Camisa Wanted – Artilheiro",
         "description": "Camisa preta de gola alta com modelagem oversized",
         "seasons": ["summer", "spring", "autumn"],
@@ -104,7 +96,7 @@
         "image": "https://wantedind.com/wp-content/uploads/2022/12/artilheiro-frente-768x768-1.jpg"
     },
     {
-        "id": 14,
+        "id": 13,
         "name": "Camiseta Wanted Premium – Wntd F.C. Dry Fit",
         "description": "Camisa preta de gola alta com modelagem oversized",
         "seasons": ["summer", "spring"],

@@ -1,7 +1,7 @@
 from typing import Dict, List
 import json
 
-from . constants import PRODUCTS_PATH, SEASONS_PATH
+from .constants import PRODUCTS_PATH, SEASONS_PATH
 
 
 def get_season(country_name: str) -> List[str]:
