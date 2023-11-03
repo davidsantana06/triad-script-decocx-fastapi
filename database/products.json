@@ -59,7 +59,7 @@
         "id": 8,
         "name": "Short Wanted – Circle",
         "description": "Short preto com modelagem justa e cós elástico",
-        "seasons": ["summer"],
+        "seasons": ["summer", "spring"],
         "price": 159.90,
         "image": "https://wantedind.com/wp-content/uploads/2023/10/01-SHORT-CIRCLE-FEMININO-900x900.png"
     },
@@ -102,5 +102,29 @@
         "seasons": ["summer", "spring"],
         "price": 219.80,
         "image": "https://wantedind.com/wp-content/uploads/2023/08/CAMISETA-PREMIUM-WNTD-F.C.-DRY-FIT-01--768x768.jpg"
+    },
+    {
+        "id": 14,
+        "name": "Moletom Canguru Wanted – Logo OG",
+        "description": "Moletom preto com modelagem oversized",
+        "seasons": ["winter", "autumn"],
+        "price": 299.90,
+        "image": "https://wantedind.com/wp-content/uploads/2021/04/Moletom-canguru-logo-og-preto-1-600x600.jpg"
+    },
+    {
+        "id": 15,
+        "name": "Calça Elastic Wanted – Regular",
+        "description": "Calça cinza com modelagem regular e cós elástico",
+        "seasons": ["summer", "spring"],
+        "price": 299.90,
+        "image": "https://wantedind.com/wp-content/uploads/2022/09/calca-regular-cinza-600x600.jpg"
+    },
+    {
+        "id": 16,
+        "name": "Camiseta Wanted Premium – Chavosidade",
+        "description": "Camiseta modelagem box fit confeccionada em malha premium",
+        "seasons": ["summer", "spring"],
+        "price": 199.80,
+        "image": "https://wantedind.com/wp-content/uploads/2023/08/CAMISETA-PREMIUM-CHAVOSIDADE-01--600x600.jpg"
     }
 ]
